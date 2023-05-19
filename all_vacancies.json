@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Бухгалтер СМР и услуг (удаленно)",
+    "firm": "Стройтрансгаз, ГК",
+    "salary_from": 0,
+    "salary_to": 90000,
+    "url": "https://hh.ru/vacancy/80605434",
+    "area": "Калуга"
+  },
+  {
+    "name": "Бухгалтер СМР и услуг (удаленно)",
+    "firm": "Стройтрансгаз, ГК",
+    "salary_from": 0,
+    "salary_to": 90000,
+    "url": "https://hh.ru/vacancy/80605483",
+    "area": "Владимир"
+  },
+  {
+    "name": "Бухгалтер СМР и услуг (удаленно)",
+    "firm": "Стройтрансгаз, ГК",
+    "salary_from": 0,
+    "salary_to": 90000,
+    "url": "https://hh.ru/vacancy/80601299",
+    "area": "Тверь"
+  },
+  {
+    "name": "Бухгалтер на первичную документацию со знанием ВЭД (импорт)",
+    "firm": "Протектор",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "url": "https://hh.ru/vacancy/80530697",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "ДК-КОНСАЛТ",
+    "salary_from": 55000,
+    "salary_to": 75000,
+    "url": "https://hh.ru/vacancy/80295539",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "ДК-КОНСАЛТ",
+    "salary_from": 55000,
+    "salary_to": 75000,
+    "url": "https://hh.ru/vacancy/80295536",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Бухгалтер на удаленную работу",
+    "firm": "НАУКА",
+    "salary_from": 60000,
+    "salary_to": 70000,
+    "url": "https://hh.ru/vacancy/80505343",
+    "area": "Сергиев Посад"
+  },
+  {
+    "name": "Главный бухгалтер на ведение ООО и ИП (удаленная работа)",
+    "firm": "Карачарова Нелли Феритовна",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "url": "https://hh.ru/vacancy/80605435",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер (транспортный отдел)",
+    "firm": "Гауф Рус",
+    "salary_from": 60000,
+    "salary_to": 65000,
+    "url": "https://hh.ru/vacancy/80733176",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "Сириус",
+    "salary_from": 0,
+    "salary_to": 65000,
+    "url": "https://hh.ru/vacancy/80526303",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер на первичную документацию",
+    "firm": "СОБИРАТОР",
+    "salary_from": 60000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/79934728",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер на участок Банк-Клиент",
+    "firm": "1С-СофтКлаб",
+    "salary_from": 60000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/79679174",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "Comelit",
+    "salary_from": 50000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/80667986",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Заместитель главного бухгалтера (удаленно)",
+    "firm": "S4",
+    "salary_from": 45000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/79618164",
+    "area": "Самара"
+  },
+  {
+    "name": "Бухгалтер маркетплейсов (удаленно)",
+    "firm": "Dreamx (ИП Саченков Тимофей Вячеславович)",
+    "salary_from": 40000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/74085652",
+    "area": "Москва"
+  },
+  {
+    "name": "Ведущий бухгалтер",
+    "firm": "Триумф",
+    "salary_from": 0,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/80640496",
+    "area": "Красноярск"
+  },
+  {
+    "name": "Помощник старшего бухгалтера",
+    "firm": "ГК ВостокИнвест",
+    "salary_from": 50000,
+    "salary_to": 51000,
+    "url": "https://hh.ru/vacancy/80152776",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Помощник главного бухгалтера",
+    "firm": "Бухгалтерская служба Посчитаем,ООО",
+    "salary_from": 40000,
+    "salary_to": 50000,
+    "url": "https://hh.ru/vacancy/80532323",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер (удаленно)",
+    "firm": "WineStyle",
+    "salary_from": 42000,
+    "salary_to": 47000,
+    "url": "https://hh.ru/vacancy/80587903",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер (касса, банк, первичный учет), удаленно",
+    "firm": "КРОССЧЕК",
+    "salary_from": 40000,
+    "salary_to": 45000,
+    "url": "https://hh.ru/vacancy/80435431",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер на первичную документацию (удалённо)",
+    "firm": "Яшин&Партнёры",
+    "salary_from": 35000,
+    "salary_to": 40000,
+    "url": "https://hh.ru/vacancy/79789072",
+    "area": "Нижний Новгород"
+  },
+  {
+    "name": "Бухгалтер-кассир",
+    "firm": "Научно-производственная фирма термоэлектрического приборостроения",
+    "salary_from": 30000,
+    "salary_to": 40000,
+    "url": "https://hh.ru/vacancy/80692517",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Бухгалтер по взаиморасчетам с контрагентами",
+    "firm": "Бизнес процесс",
+    "salary_from": 20000,
+    "salary_to": 40000,
+    "url": "https://hh.ru/vacancy/80532843",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер по документообороту (Удаленно)",
+    "firm": "Бухгалтерский консалтинг",
+    "salary_from": 39000,
+    "salary_to": 39000,
+    "url": "https://hh.ru/vacancy/79696188",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "Центр ПРО",
+    "salary_from": 30000,
+    "salary_to": 35000,
+    "url": "https://hh.ru/vacancy/80645231",
+    "area": "Уфа"
+  },
+  {
+    "name": "Бухгалтер по первичной документации (удаленно)",
+    "firm": "Профконсалт",
+    "salary_from": 30000,
+    "salary_to": 30000,
+    "url": "https://hh.ru/vacancy/80676823",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер по проведению банковских выписок в 1С",
+    "firm": "АктивПро",
+    "salary_from": 30000,
+    "salary_to": 30000,
+    "url": "https://hh.ru/vacancy/80008637",
+    "area": "Обнинск"
+  },
+  {
+    "name": "Бухгалтер (учет товаров и денег, удаленно)",
+    "firm": "Fructoo.ru",
+    "salary_from": 25000,
+    "salary_to": 25000,
+    "url": "https://hh.ru/vacancy/79552189",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Помощник бухгалтера",
+    "firm": "КОЛЕСА ZIP",
+    "salary_from": 20000,
+    "salary_to": 20000,
+    "url": "https://hh.ru/vacancy/80655577",
+    "area": "Санкт-Петербург"
+  },
+  {
+    "name": "Бухгалтер по расчету зарплаты (удаленно)",
+    "firm": "Учетный центр ГлавБух",
+    "salary_from": 0,
+    "salary_to": 10000,
+    "url": "https://hh.ru/vacancy/79640602",
+    "area": "Пермь"
+  },
+  {
+    "name": "Бухгалтер (Подработка)",
+    "firm": "Единый банковский центр",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80294166",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "DELAOK",
+    "salary_from": 80000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/78521100",
+    "area": "Москва"
+  },
+  {
+    "name": "Ведущий бухгалтер",
+    "firm": "Восточная горнорудная компания",
+    "salary_from": 65000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80610014",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер",
+    "firm": "Кудрина Евгения Юрьевна",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80746412",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер/Помощник бухгалтера",
+    "firm": "РА Кефир",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/79811354",
+    "area": "Москва"
+  },
+  {
+    "name": "Бухгалтер по расчету заработной платы",
+    "firm": "S4",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80509199",
+    "area": "Тюмень"
+  },
+  {
+    "name": "Бухгалтер по расчету заработной платы",
+    "firm": "S4",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80459152",
+    "area": "Волгоград"
+  },
+  {
+    "name": "Ведущий бухгалтер (удаленно)",
+    "firm": "Стратег-Консалт",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80711227",
+    "area": "Архангельск"
+  },
+  {
+    "name": "Бухгалтер по сверкам (удаленно)",
+    "firm": "Доброград",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80724318",
+    "area": "Владимир"
+  },
+  {
+    "name": "Ведущий бухгалтер (удаленно)",
+    "firm": "Актив, консалтинговая группа",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80040948",
+    "area": "Пермь"
+  },
+  {
+    "name": "Бухгалтер по работе с маркетплейсами",
+    "firm": "Жизнивек",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80318508",
+    "area": "Краснодар"
+  },
+  {
+    "name": "Бухгалтер по работе с покупателями",
+    "firm": "Доброград",
+    "salary_from": 38000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80714963",
+    "area": "Владимир"
+  },
+  {
+    "name": "Бухгалтер по первичной документации",
+    "firm": "Контакт",
+    "salary_from": 35000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80424564",
+    "area": "Ярославль"
+  },
+  {
+    "name": "Начинающий бухгалтер",
+    "firm": "КНОПКА",
+    "salary_from": 28000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/79370647",
+    "area": "Екатеринбург"
+  },
+  {
+    "name": "Помощник бухгалтера",
+    "firm": "Бизнесконсалт",
+    "salary_from": 20000,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80448887",
+    "area": "Москва"
+  }
+]
